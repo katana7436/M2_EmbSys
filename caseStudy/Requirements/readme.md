@@ -60,16 +60,16 @@ Giving different inputs we can find their desired output.
 # High Level Requirements
 ## ID	Description	Status
 |HLR_1|	Control Unit|Implemented|
-HLR_2   |  Input U n| Implemented|
-HLR_3   |  Output Unit  | Implemented|
-HLR_4   |  Software Design  | Implemented|
+|HLR_2   |  Input U n| Implemented|
+|HLR_3   |  Output Unit  | Implemented|
+|HLR_4   |  Software Design  | Implemented|
 
 # Low Level Requirements
 ## ID	Description	HLR ID|	Status
-LLR_1   |  AVR Atmega 328 Microcontrol l| HLR_1|  Implemented
+|LLR_1   |  AVR Atmega 328 Microcontrol l| HLR_1|  Implemented
 |:------:|:-------:|:-------:|
-LLR_2   |  4*4 Keypad Interfac e| HLR_| Implemented|
+|LLR_2   |  4*4 Keypad Interfac e| HLR_| Implemented|
 |:------:|:-------:|:-------:|
-LLR_3   |  16*2 LCD Interf a| HLR_3|Implemented|
+|LLR_3   |  16*2 LCD Interf a| HLR_3|Implemented|
 |:------:|:-------:|:-------:|
-LLR_4   |  Visual Studio Code & Simuli d| HLR||Implemented|
+|LLR_4   |  Visual Studio Code & Simuli d| HLR||Implemented|
