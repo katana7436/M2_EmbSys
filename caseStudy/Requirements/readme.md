@@ -12,18 +12,19 @@ An LCD module can be interfaced with a microcontroller either in 8 bit mode or i
     4 Mhz Crystal Oscillator
     10 KΩ resistor
     22 pF capacitor
-    Software Used
+
+## Software Used
     SimulIDE
     Visual Studio Code
-    Cost and Feature
+
+#Cost and Feature
     The cost of the hardware and software design is fixed and one-time investment only.
 
-A calculator is a device that performs numerical operations. The features of this basic calculator can perform
-
-Addition
-Subtraction
-Multiplication
-Division
+A calculator is a device that performs numerical operations. The features of this basic calculator can perform:
+    1.)Addition
+    2.)Subtraction
+    3.)Multiplication
+    4.)Division
 
 
 ## SWOT Analysis
