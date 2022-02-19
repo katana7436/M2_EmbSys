@@ -67,10 +67,8 @@ Giving different inputs we can find their desired output.
 
 # Low Level Requirements
 ## ID	Description	HLR ID|	Status
-|LLR_1   |  AVR Atmega 328 Microcontrol l| HLR_1|  Implemented
+|LLR_1   |  AVR Atmega 328 Microcontrol l| HLR_1|  Implemented|
 |:------:|:-------:|:-------:|
-|LLR_2   |  4*4 Keypad Interface| HLR_2| Implemented|
-|:------:|:-------:|:-------:|
-|LLR_3   |  16*2 LCD Interf a| HLR_3|Implemented|
-|:------:|:-------:|:-------:|
-|LLR_4   |  Visual Studio Code & Simuli d| HLR_4||Implemented|
+|LLR_2   |  4*4 Keypad Interface    | HLR_2| Implemented|
+|LLR_3   |  16*2 LCD Interface  | HLR_3| Implemented|
+|LLR_4   |  Visual Studio Code & Simulide   | HLR_4| Implemented|
