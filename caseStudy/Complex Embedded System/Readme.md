@@ -1,0 +1,5 @@
+# Traffic signal system
+
+## Introduction
+
+The  project  is  aimed  at  designing  a  density based dynamic traffic signal system where the  timing of signal  will  change  automatically  on  sensing  the  traffic density  atany  junction.  Traffic  congestion  is  a  severe problem in most cities across the world and thereforeit is time to shift more manual mode or fixed timer mode to an automated  system  with  decision  making capabilities. Present  day traffic  signaling system  is fixed  time based which  may  renderinefficient  if one  lane  is operational than the others. To optimize this problem we have madea framework  for  an  intelligent  traffic  control  system.
