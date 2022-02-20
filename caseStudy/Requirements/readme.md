@@ -47,18 +47,18 @@ Giving different inputs we can find their desired output.
 
 ## High Level Requirements
 
-|ID | Description|	Status|
-|:------:|:-------:|:-------:|
-|HLR_1   |	Control Unit|   Implemented|
-|HLR_2   |  Input Unit   | Implemented|
-|HLR_3   |  Output Unit  | Implemented|
-|HLR_4   |  Software Design  | Implemented|
+|ID | Description|
+|:------:|:-------:|
+|HLR_1   |	Control Unit| 
+|HLR_2   |  Input Unit   |
+|HLR_3   |  Output Unit  |
+|HLR_4   |  Software Design  |
 
 ## Low Level Requirements
 
-|ID | Description|	Status|
+|ID | Description|HLR ID|
 |:------:|:-------:|:-------:|
-|LLR_1   |  AVR Atmega 328 Microcontrol l| HLR_1|  Implemented|
-|LLR_2   |  4*4 Keypad Interface    | HLR_2| Implemented|
-|LLR_3   |  16*2 LCD Interface  | HLR_3| Implemented|
-|LLR_4   |  Visual Studio Code & Simulide   | HLR_4| Implemented|
+|LLR_1   |  AVR Atmega 328 Microcontrol | HLR_1|
+|LLR_2   |  4*4 Keypad Interface    | HLR_2|
+|LLR_3   |  16*2 LCD Interface  | HLR_3|
+|LLR_4   |  Visual Studio Code & Simulide   | HLR_4|
