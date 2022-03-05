@@ -61,17 +61,16 @@ The  project  is  aimed  at  designing  a  density based dynamic traffic signal 
 
 ## HIGH LEVEL REQUIREMENTS
 
-
-|ID|	DESCRIPTION|
-|:------:|:-------:|
-|HLR_1|	Fully Automated	|
-|HLR_2|	Sensors And Atmega328|
-|HLR_3|	Alarm Interfaced with atmega328|
+|ID|DESCRIPTION|STATUS|
+|---|---|---|
+|HLR_1|Fully Automated|Future|
+|HLR_2|Sensors And Atmega328|Implemented|
+|HLR_3|Alarm Interfaced with atmega328|Future|
 
 ## LOW LEVEL REQUIREMENTS
 
-|ID |	DESCRIPTION	|
-|:------:|:-------:|
-|LLR_1|	LEDs Interfaced with atmega|
-|LLR_2|	Resistors|
-|LLR_3|	Cameras|
+|ID|DESCRIPTION|STATUS|
+|---|---|---|
+|LLR_1|LEDs Interfaced with atmega|Implemented|
+|LLR_2|Resistors|Implemented|
+|LLR_3|Cameras|Future|
